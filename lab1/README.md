@@ -3,7 +3,7 @@
 Question 1. Print "Hello World."
 
 Question 2. Print the following pattern:
-              *
+              *\n
               ***
               *****
               *******
