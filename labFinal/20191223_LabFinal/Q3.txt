@@ -1,0 +1,26 @@
+10
+apple
+apple
+banana
+Banana
+no space   please
+nospaceplease
+This is Correct
+This is   Correct
+This is Wrong
+This is wrong
+pen pineapple apple pen
+pen pineapple apple pen
+how dare you
+How Dare You
+Act Together We Go Far
+Act Together We go Far
+s j k ljl   sdf
+sjkljlsdf
+fasdljadl
+jdklejlwd
+
+
+Correct
+Wrong Answer
+Output format error
